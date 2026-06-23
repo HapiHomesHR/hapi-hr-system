@@ -1,9 +1,0 @@
-{
-  "name": "Hapi HR System",
-  "short_name": "HapiHR",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1E4ED8",
-  "icons": []
-}
